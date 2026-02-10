@@ -1,4 +1,4 @@
-# Carrito de compras para el cafetín del SENA
+# Carrito de compras para la cafeteria del SENA
 
 --- 1. Planteamiento del problema ---
 
